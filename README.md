@@ -33,3 +33,8 @@ Contributions are encouraged! Feel free to fork the repository, make improvement
 # Disclaimer
 
 While this project provides insights into sales predictions, real-world outcomes may be influenced by various unforeseen factors. Use these predictions as a tool for informed decision-making, but consider the dynamic nature of business environments.
+
+# Author
+
+Simran Taj
+simrantaj120@gmail.com
